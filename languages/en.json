@@ -1,0 +1,69 @@
+{
+    "Header":{
+        "home": "Home",
+        "about": "About",
+        "skills": "Certificates",
+        "projects": "Projects",
+        "contactme": "Contactme"
+    },
+    "Main": {
+        "home-title": "Hi, i'm Alejandro",
+        "home-description": "I am passionate about programming, reading, and music. I enjoy giving my best, regardless of how simple or complex the task may be.",
+        "scroll": "Scroll down"
+    },
+    "About": {
+        "section-subtitle-about": "My introduction",
+        "about-description": "Engineer in Information and Communication Technologies.",
+        "about-descriptionP2": "In this section, you will find my CV with more information about me. Click on 'Download CV' to access it.",
+        "about-button": "Download CV"
+    },
+    "Skills": {
+        "title-skills-frontend": "Frontend Developer",
+        "subtitle-skills-moreinformation": "More Information",
+        "version-control": "Version Control"
+    },
+    "Certificates1":{
+        "section-subtitle-certificates": "My certificates",
+        "certificatestitle1": "Python <br> for Data Science",
+        "viewmore": "View More",
+        "certificates-data": "Data Structures",
+        "certificates-program": "Programming Fundamentals",
+        "certificates-numpy": "Numpy Arrays & Simple APIs"
+    },
+    "Certificates2":{
+        "certificatestitle2": "First Week <br> Data Scientist",
+        "download1": "Download",
+        "certificates-business": "Business Analytics",
+        "certificatesmachine": "Machine Learning",
+        "certificatesproduct": "Productivization"
+    },
+    "Certificates3":{
+        "certificatestitle3": "Google<br>Analytics",
+        "viewmore": "View More",
+        "certificates-campaigns": "How to measure personalized campaigns",
+        "certificates-builder": "Track campaigns with URL Builder",
+        "certificates-ads": "Measure Google Ads campaigns"
+    },
+    "Certificates4":{
+        "certificatestitle4": "Object-oriented<br>Programming",
+        "viewmore": "View More",
+        "certificates-abstract": "Abstraction",
+        "certificates-inheritance": "Inheritance",
+        "certificates-poli": "Polymorphism",
+        "certificates-encaps": "Encapsulation"
+
+    },
+    "Projects1":{
+        "section-subtitle-projects": "My Projects",
+        "projects-title": "Dashboard",
+        "dashboard": "Creation of a dashboard to visualize the flight of employees from a company<br><br>+ Business Analytics<br>+ Machine Learning (Python)<br>+ Productivization (Tableau)",
+        "projects-more": "More"
+    },
+    "Projects2":{
+        "projects2-title": "I will continue adding projects very soon."
+    }
+    
+
+    
+    
+}

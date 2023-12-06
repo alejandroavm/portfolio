@@ -1,0 +1,29 @@
+{
+    "Header":{
+        "home": "Inicio",
+        "about": "Sobre mí",
+        "skills": "Certificados",
+        "projects": "Proyectos",
+        "contactme": "Contacto"
+    },
+    "Main": {
+        "home-title": "Hola, mi nombre es Alejandro",
+        "home-description": "I am passionate about programming, reading, and music. I enjoy giving my best, regardless of how simple or complex the task may be.",
+        "scroll": "Scroll down"
+    },
+    "About": {
+        "section-subtitle-about": "My introduction",
+        "about-description": "Engineer in Information and Communication Technologies.",
+        "about-descriptionP2": "In this section, you will find my CV with more information about me. Click on 'Download CV' to access it.",
+        "about-button": "Download CV"
+    },
+    "Skills": {
+        "title-skills-frontend": "Frontend Developer",
+        "subtitle-skills-moreinformation": "More Information",
+        "version-control": "Version Control"
+    },
+    "Certificates":{
+        "section-subtitle-certificates": "My certificates"
+    }
+    
+}
